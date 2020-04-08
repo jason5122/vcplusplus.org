@@ -1,2 +1,3 @@
-# vcplusplus
-This is the repo for Vassar's VC++ student org, hosted at vcplusplus.org.
+# jason-han.com
+
+A personal website with the domain from Google Domains and content hosted by GitHub.

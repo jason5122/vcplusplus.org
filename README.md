@@ -1,2 +1,2 @@
-# vcplusplus
-This is the repo for Vassar's VC++ student org, hosted at vcplusplus.org.
+# vcplusplus.org
+This is the repo for Vassar's VC++ student org website.
